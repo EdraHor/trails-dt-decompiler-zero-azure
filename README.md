@@ -96,13 +96,6 @@ you start.
   ([`dt-tools/dt_quest.py`](dt-tools/dt_quest.py)). Both adapted for
   this toolkit.
 
-## TODO
-
-See [TODO.md](TODO.md). Highlights: a standalone "text ↔ halfwidth"
-CLI for non-`._dt` text streams; the upcoming `scena/` module for
-translating scenario files in `data\scena_us\`; an English version of
-the technical notes in `binpatch/PATCHING_NOTES.md`.
-
 ## Community
 
-[Geofront / Trails Discord](https://discord.com/invite/sGzmvFaFAe).
+[Discord: Trails Localization Team](https://discord.com/invite/sGzmvFaFAe).
